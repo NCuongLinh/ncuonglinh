@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ncuonglinh&label=NCuongLinh&color=0e75b6&style=flat" alt="ncuonglinh" /> </p>
-
 <h1 align="center">Hi , I'm Cuong Linh</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ncuonglinh&label=NCuongLinh&color=0e75b6&style=flat" alt="ncuonglinh" /> </p>
 
 <h2>⭐ About me</h2>
 
