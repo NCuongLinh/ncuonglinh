@@ -4,7 +4,7 @@
 
 <h2>⭐ About me</h2>
 
-<h3>I'm a student at VNU-HCM UIT (University of Information Technology) in HCM City</h3>
+<h3>I'm a student at VNU-HCM UIT (University of Information Technology) in HCM City. I have a passion in developing beautiful websites.</h3>
 
 <hr>
 
@@ -13,6 +13,9 @@
 - 📫 How to reach me **cuonglinh.ng@gmail.com**
 
 <p align="left">
+  
+  <h3>I hope we can learn something from each other</h3>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
