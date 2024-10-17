@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core & PHP**
 - 🎯 Future Goals: **Dive deeper into full-stack development and mobile development**
-- 🎨 Outside of coding: **I enjoy reading tech blogs, books and playing piano**
+- 🎨 Outside of coding: **I enjoy reading tech blogs, books, cooking and playing piano**
 - 📫 How to reach me **cuonglinh.ng@gmail.com**
   
 ✨ I hope we can learn something from each other ✨
