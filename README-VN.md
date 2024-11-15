@@ -14,7 +14,7 @@
 - 🌱 Hiện tại mình đang học **Angular & MongoDB**
 - 🎯 Mục tiêu tương lai: **Tìm hiểu sâu hơn về Full-Stack Development và nền tảng lập trình thiết bị di động**
 - 🎨 Sở thích bên ngoài: **Mình thích đọc tech blogs、sách、nấu ăn và chơi Piano**
-- 📫 Liên hệ mình qua**cuonglinh.ng@gmail.com**
+- 📫 Liên hệ mình qua **cuonglinh.ng@gmail.com**
   
 ✨ Hy vọng chúng ta có thể học hỏi và chia sẻ những điều tốt đẹp ✨
 <hr>
