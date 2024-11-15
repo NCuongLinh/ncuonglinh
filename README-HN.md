@@ -9,7 +9,7 @@
 
 <h2>⭐ 𧗱本身 </h2>
 
-<h3>𠵴𪜀成員在場VNU-HCM UIT (場大學工藝通信)於城舖胡志明。 𠵴惕爫Web。</h3>
+<h3>𠵴𪜀生員在場VNU-HCM UIT (場大學工藝通信)於城舖胡志明。 𠵴惕爫Web。</h3>
 
 - 🌱 現在𠵴当學 **Angular & MongoDB**
 - 🎯 目標將來： **尋曉溇欣𧗱Full-Stack Development吧𡋂磉立程設備移動**

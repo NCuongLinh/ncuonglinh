@@ -9,7 +9,7 @@
 
 <h2>⭐ Về bản thân  </h2>
 
-<h3>mình là thành viên tại trường VNU-HCM UIT(Trường Đại Học Công Nghệ Thông Tin) ở TP.HCM. Mình thích làm Web 。</h3>
+<h3>Mình là sinh viên tại trường VNU-HCM UIT(Trường Đại Học Công Nghệ Thông Tin) ở TP.HCM. Mình thích làm Web 。</h3>
 
 - 🌱 Hiện tại mình đang học **Angular & MongoDB**
 - 🎯 Mục tiêu tương lai: **Tìm hiểu sâu hơn về Full-Stack Development và nền tảng lập trình thiết bị di động**
