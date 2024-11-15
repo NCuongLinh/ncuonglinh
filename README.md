@@ -1,6 +1,11 @@
 <h1 align="center">Hi , I'm Cuong Linh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ncuonglinh&label=NCuongLinh&color=0e75b6&style=flat" alt="ncuonglinh" /> </p>
+<img src="https://komarev.com/ghpvc/?username=ncuonglinh&label=NCuongLinh&color=0e75b6&style=flat" alt="ncuonglinh" />
+
+[中文](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-CN.md)
+[日本語](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-JP.md)
+[Tiếng Việt](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-VN.md)
+[𡨸喃](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-HN.md)
 
 <h2>⭐ About me</h2>
 

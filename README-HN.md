@@ -1,17 +1,22 @@
-<h1 align="center">Hi , I'm Cuong Linh</h1>
+<h1 align="center">嗔嘲 , 𠵴𪜀綱領</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ncuonglinh&label=NCuongLinh&color=0e75b6&style=flat" alt="ncuonglinh" /> </p>
+<img src="https://komarev.com/ghpvc/?username=ncuonglinh&label=NCuongLinh&color=0e75b6&style=flat" alt="ncuonglinh" />
 
-<h2>⭐ About me</h2>
+[English](https://github.com/NCuongLinh/ncuonglinh/blob/main/README.md)
+[中文](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-CN.md)
+[日本語](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-JP.md)
+[Tiếng Việt](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-VN.md)
 
-<h3>I'm a student at VNU-HCM UIT (University of Information Technology) in HCM City. I have a passion in developing beautiful websites.</h3>
+<h2>⭐ 𧗱本身 </h2>
 
-- 🌱 I’m currently learning **Angular & MongoDB**
-- 🎯 Future Goals: **Dive deeper into full-stack development and mobile development**
-- 🎨 Outside of coding: **I enjoy reading tech blogs, books, cooking and playing piano**
-- 📫 How to reach me **cuonglinh.ng@gmail.com**
+<h3>𠵴𪜀成員在場VNU-HCM UIT (場大學工藝通信)於城舖胡志明。 𠵴惕爫Web。</h3>
+
+- 🌱 現在𠵴当學 **Angular & MongoDB**
+- 🎯 目標將來： **尋曉溇欣𧗱Full-Stack Development吧𡋂磉立程設備移動**
+- 🎨 所適边外： **𠵴惕讀tech blogs、冊、𤋷𩛖吧𨔈𪪈亞呶**
+- 📫 聯繫𠵴過 **cuonglinh.ng@gmail.com**
   
-✨ I hope we can learn something from each other ✨
+✨ 希望眾咱固体學𠳨吧𢺹𢩿仍條卒惵 ✨
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
