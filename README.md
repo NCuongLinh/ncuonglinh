@@ -26,7 +26,7 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCuongLinh&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCuongLinh&theme=tokyonight&hide_border=true&langs_count=11&hide=jupyter%20notebook)
 
 
 
