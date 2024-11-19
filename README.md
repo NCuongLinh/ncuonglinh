@@ -5,7 +5,7 @@
 [中文（繁體）](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-CN.md) |
 [日本語](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-JP.md) |
 [Tiếng Việt](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-VN.md) |
-[越語（𡨸喃）](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-HN.md)
+[越語](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-HN.md)
 
 <h2>⭐ About me</h2>
 

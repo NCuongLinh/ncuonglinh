@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=ncuonglinh&label=NCuongLinh&color=0e75b6&style=flat" alt="ncuonglinh" />
 
 [English](https://github.com/NCuongLinh/ncuonglinh/blob/main/README.md) |
-[中文（繁體）](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-CN.md) |
+[中文](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-CN.md) |
 [Tiếng Việt](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-VN.md) |
-[越語（𡨸喃）](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-HN.md)
+[越語𡨸喃](https://github.com/NCuongLinh/ncuonglinh/blob/main/README-HN.md)
 
 <h2>⭐ 私について</h2>
 
